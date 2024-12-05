@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently constantly learning.<br>I intend to post my projects and some work here.<br>
+I am currently constantly learning.<br>I intend to post my projects and some work here and update them by the time.<br>
 
 
 ## 🌐 Socials:
