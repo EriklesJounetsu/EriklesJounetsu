@@ -4,6 +4,9 @@
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/erikles_jounetsu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Erikles_P27) 
 
+![](https://github-readme-stats.vercel.app/api?username=EriklesJounetsu&theme=maroongold&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EriklesJounetsu&theme=maroongold&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EriklesJounetsu&theme=maroongold&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -20,9 +23,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=EriklesJounetsu&theme=maroongold&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EriklesJounetsu&theme=maroongold&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EriklesJounetsu&theme=maroongold&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
