@@ -2,7 +2,7 @@
  
 
 [![Typing  SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=35&pause=1000&color=E8D153&width=1000&height=100&lines=Ol%C3%A1%2C+Seja+muito+bem-vindo+%3AD;Neste+perfil%2C+se+encontra+um+Desenvolvedor+FrontEnd;Sinta-se+à+vontade+para+conhecer+meus+reposit%C3%B3rios+;Abaixo+estar%C3%A3o+informa%C3%A7%C3%B5es+e+meios+de+contato+;%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%AD%EF%BC%81)](https://git.io/typing-svg)
-## 🌐Socials
+## 🌐Socials 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/erikles_jounetsu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Erikles_P27) 
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=EriklesJounetsu&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
