@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:  
 ![](https://github-readme-stats.vercel.app/api?username=EriklesJounetsu&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=EriklesJounetsu&theme=maroongold&hide_border=false)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=EriklesJounetsu&theme=maroongold&hide_border=true)<br/>-->
+<--![](https://github-readme-streak-stats.herokuapp.com/?user=EriklesJounetsu&theme=maroongold&hide_border=true)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EriklesJounetsu&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
