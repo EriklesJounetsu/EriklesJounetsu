@@ -40,6 +40,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EriklesJounetsu}/count.svg" /></p> 
 <br></div>
 
-  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=227&color=870007&text=Erikles%20情熱&textBg=false&fontColor=e8d153&reversal=false&section=footer"/>
