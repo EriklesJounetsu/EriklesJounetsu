@@ -6,6 +6,7 @@
 
 
 
+
 ## 🌐Socials 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/erikles_jounetsu) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Erikles_P27) 
 # 📊 GitHub Stats:   
